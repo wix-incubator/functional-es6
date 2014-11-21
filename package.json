@@ -1,0 +1,30 @@
+{
+  "name": "functional-es6",
+  "version": "0.0.0",
+  "description": "Sample code for functional es6 presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wix/functional-es6.git"
+  },
+  "keywords": [
+    "functional",
+    "es6",
+    "fakerjs",
+    "lodash"
+  ],
+  "author": "Omry Nachman",
+  "license": "LINCENSE",
+  "bugs": {
+    "url": "https://github.com/wix/functional-es6/issues"
+  },
+  "homepage": "https://github.com/wix/functional-es6",
+  "dependencies": {
+    "facer": "0.0.1",
+    "lodash": "^2.4.1",
+    "traceur": "0.0.74"
+  }
+}
